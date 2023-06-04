@@ -1,0 +1,92 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * alibaba-sans:
+ *   - http://typekit.com/eulas/00000000000000003b9b46d7
+ *   - http://typekit.com/eulas/00000000000000003b9b46d8
+ *   - http://typekit.com/eulas/00000000000000003b9b46d9
+ *   - http://typekit.com/eulas/00000000000000003b9b46da
+ *   - http://typekit.com/eulas/00000000000000003b9b46db
+ *   - http://typekit.com/eulas/00000000000000003b9b46dc
+ *   - http://typekit.com/eulas/00000000000000003b9b46dd
+ *   - http://typekit.com/eulas/00000000000000003b9b46de
+ *   - http://typekit.com/eulas/00000000000000003b9b46df
+ *   - http://typekit.com/eulas/00000000000000003b9b46e0
+ *   - http://typekit.com/eulas/00000000000000003b9b46e1
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-12-12 16:44:18 UTC"}*/
+
+@import url("../p.typekit.net/p6393.css?s=1&amp;k=iul4xbb&amp;ht=tk&amp;f=45375.45376.45377.45378.45379.45380.45381.45382.45383.45384.45385&amp;a=51742543&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"alibaba-sans";
+src:url("af/efc676/00000000000000003b9b46d7/27/l3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff2"),url("af/efc676/00000000000000003b9b46d7/27/d3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff"),url("af/efc676/00000000000000003b9b46d7/27/a3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"alibaba-sans";
+src:url("af/586dce/00000000000000003b9b46d8/27/lafdb?subset_id=2&amp;fvd=i3&amp;v=3") format("woff2"),url("af/586dce/00000000000000003b9b46d8/27/dafdb?subset_id=2&amp;fvd=i3&amp;v=3") format("woff"),url("af/586dce/00000000000000003b9b46d8/27/aafdb?subset_id=2&amp;fvd=i3&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"alibaba-sans";
+src:url("af/b37504/00000000000000003b9b46d9/27/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/b37504/00000000000000003b9b46d9/27/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/b37504/00000000000000003b9b46d9/27/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"alibaba-sans";
+src:url("af/e6e61e/00000000000000003b9b46da/27/lee82?subset_id=2&amp;fvd=i4&amp;v=3") format("woff2"),url("af/e6e61e/00000000000000003b9b46da/27/dee82?subset_id=2&amp;fvd=i4&amp;v=3") format("woff"),url("af/e6e61e/00000000000000003b9b46da/27/aee82?subset_id=2&amp;fvd=i4&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"alibaba-sans";
+src:url("af/053934/00000000000000003b9b46db/27/le003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff2"),url("af/053934/00000000000000003b9b46db/27/de003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff"),url("af/053934/00000000000000003b9b46db/27/ae003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"alibaba-sans";
+src:url("af/8b03d7/00000000000000003b9b46dc/27/l416c?subset_id=2&amp;fvd=i5&amp;v=3") format("woff2"),url("af/8b03d7/00000000000000003b9b46dc/27/d416c?subset_id=2&amp;fvd=i5&amp;v=3") format("woff"),url("af/8b03d7/00000000000000003b9b46dc/27/a416c?subset_id=2&amp;fvd=i5&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"alibaba-sans";
+src:url("af/35695b/00000000000000003b9b46dd/27/l3b0e?subset_id=2&amp;fvd=n7&amp;v=3") format("woff2"),url("af/35695b/00000000000000003b9b46dd/27/d3b0e?subset_id=2&amp;fvd=n7&amp;v=3") format("woff"),url("af/35695b/00000000000000003b9b46dd/27/a3b0e?subset_id=2&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"alibaba-sans";
+src:url("af/aa520d/00000000000000003b9b46de/27/l00e3?subset_id=2&amp;fvd=i7&amp;v=3") format("woff2"),url("af/aa520d/00000000000000003b9b46de/27/d00e3?subset_id=2&amp;fvd=i7&amp;v=3") format("woff"),url("af/aa520d/00000000000000003b9b46de/27/a00e3?subset_id=2&amp;fvd=i7&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"alibaba-sans";
+src:url("af/c9d514/00000000000000003b9b46df/27/l9622?subset_id=2&amp;fvd=n8&amp;v=3") format("woff2"),url("af/c9d514/00000000000000003b9b46df/27/d9622?subset_id=2&amp;fvd=n8&amp;v=3") format("woff"),url("af/c9d514/00000000000000003b9b46df/27/a9622?subset_id=2&amp;fvd=n8&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"alibaba-sans";
+src:url("af/7f0179/00000000000000003b9b46e0/27/l3b11?subset_id=2&amp;fvd=i8&amp;v=3") format("woff2"),url("af/7f0179/00000000000000003b9b46e0/27/d3b11?subset_id=2&amp;fvd=i8&amp;v=3") format("woff"),url("af/7f0179/00000000000000003b9b46e0/27/a3b11?subset_id=2&amp;fvd=i8&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"alibaba-sans";
+src:url("af/41f11a/00000000000000003b9b46e1/27/lec9a?subset_id=2&amp;fvd=n9&amp;v=3") format("woff2"),url("af/41f11a/00000000000000003b9b46e1/27/dec9a?subset_id=2&amp;fvd=n9&amp;v=3") format("woff"),url("af/41f11a/00000000000000003b9b46e1/27/aec9a?subset_id=2&amp;fvd=n9&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+.tk-alibaba-sans { font-family: "alibaba-sans",sans-serif; }
